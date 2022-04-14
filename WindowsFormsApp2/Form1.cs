@@ -31,12 +31,12 @@ namespace WindowsFormsApp2
         private void flowLayoutPanel2_Paint(object sender, PaintEventArgs e)
         {
 
-        } -
+        } 
 
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
 
-        } -
+        } 
 
         private void button4_Click(object sender, EventArgs e)
         {
